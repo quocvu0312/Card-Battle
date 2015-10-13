@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{95D2C287-B79F-80E1-3B3C-A37BCF252EE0}</ProjectGuid>
+	<ProjectGuid>{3BF3F17B-FAA3-BD00-FAE1-1C17E62FD056}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -175,7 +175,7 @@
  <HintPath>D:/VuLeQuoc/Unity_4.6/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/Editor/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="SampleClassLibrary">
- <HintPath>D:/VuLeQuoc/Git-Document/New-Game-Battle/New-Game-Battle/New-Game-Battle/Assets/JsonDotNet/Examples/Tests/TestModels/SampleClassLibrary.dll</HintPath>
+ <HintPath>D:/VuLeQuoc/Git-Document/New-Game-Battle/New-Game-Battle/Card-Battle/Assets/JsonDotNet/Examples/Tests/TestModels/SampleClassLibrary.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Graphs">
  <HintPath>D:/VuLeQuoc/Unity_4.6/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
@@ -183,7 +183,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-vs.csproj">
-      <Project>{6A9A2088-7418-7CE3-4FFE-6ADD20CE2386}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+      <Project>{8D251947-319C-864B-81ED-B7104417082F}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

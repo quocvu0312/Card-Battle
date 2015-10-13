@@ -34,22 +34,22 @@ public class Charater : MonoBehaviour {
             switch (_thuoctinh.chaPos)
             {
                 case 1:
-                    this.transform.localPosition = new Vector3(-3.5f, 1.50f);
+                    this.transform.localPosition = new Vector3(-3.5f, -1.70f);
                     break;
                 case 2:
-                    this.transform.localPosition = new Vector3(-3.5f, 0f);
+                    this.transform.localPosition = new Vector3(-3.5f, -1.2f);
                     break;
                 case 3:
-                    this.transform.localPosition = new Vector3(-3.5f, -1.50f);
+                    this.transform.localPosition = new Vector3(-3.5f, -0.70f);
                     break;
                 case 4:
-                    this.transform.localPosition = new Vector3(-1.5f, 1.50f);
+                    this.transform.localPosition = new Vector3(-1.5f, -1.70f);
                     break;
                 case 5:
-                    this.transform.localPosition = new Vector3(-1.5f, 0f);
+                    this.transform.localPosition = new Vector3(-1.5f, -1.2f);
                     break;
                 case 6:
-                    this.transform.localPosition = new Vector3(-1.5f, -1.5f);
+                    this.transform.localPosition = new Vector3(-1.5f, -0.5f);
                     break;
             }
         }
@@ -59,22 +59,22 @@ public class Charater : MonoBehaviour {
             switch (_thuoctinh.chaPos)
             {
                 case 1:
-                    this.transform.localPosition = new Vector3(3.5f, 1.50f);
+                    this.transform.localPosition = new Vector3(3.5f, -1.70f);
                     break;
                 case 2:
-                    this.transform.localPosition = new Vector3(3.5f, 0f);
+                    this.transform.localPosition = new Vector3(3.5f, -1.2f);
                     break;
                 case 3:
-                    this.transform.localPosition = new Vector3(3.5f, -1.50f);
+                    this.transform.localPosition = new Vector3(3.5f, -0.50f);
                     break;
                 case 4:
-                    this.transform.localPosition = new Vector3(1.5f, 1.50f);
+                    this.transform.localPosition = new Vector3(1.5f, -1.70f);
                     break;
                 case 5:
-                    this.transform.localPosition = new Vector3(1.5f, 0f);
+                    this.transform.localPosition = new Vector3(1.5f, -1.2f);
                     break;
                 case 6:
-                    this.transform.localPosition = new Vector3(1.5f, -1.5f);
+                    this.transform.localPosition = new Vector3(1.5f, -0.5f);
                     break;
             }
         }
